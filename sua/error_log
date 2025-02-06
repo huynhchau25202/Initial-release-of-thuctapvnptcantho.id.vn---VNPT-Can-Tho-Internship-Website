@@ -1,0 +1,358 @@
+[15-Jun-2024 12:43:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/p5nsxwki604v/public_html/sua/sua_ten_dich_vu.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_ten_dich_vu.php on line 40
+[15-Jun-2024 12:43:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/p5nsxwki604v/public_html/sua/sua_ten_dich_vu.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_ten_dich_vu.php on line 40
+[15-Jun-2024 12:44:39 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[15-Jun-2024 12:44:39 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[15-Jun-2024 12:44:39 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[15-Jun-2024 12:44:48 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[15-Jun-2024 12:44:48 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[15-Jun-2024 12:44:48 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[15-Jun-2024 12:45:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown table 'p5nsxwki604v_congtyvienthong.ThongTinBanHang' in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php:28
+Stack trace:
+#0 /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php(28): mysqli->prepare()
+#1 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 28
+[15-Jun-2024 12:46:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown table 'p5nsxwki604v_congtyvienthong.ThongTinBanHang' in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php:28
+Stack trace:
+#0 /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php(28): mysqli->prepare()
+#1 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 28
+[15-Jun-2024 12:47:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'NhanVien.TenNhanVien' in 'field list' in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php:28
+Stack trace:
+#0 /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php(28): mysqli->prepare()
+#1 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 28
+[15-Jun-2024 12:47:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'NhanVien.TenNhanVien' in 'field list' in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php:28
+Stack trace:
+#0 /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php(28): mysqli->prepare()
+#1 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 28
+[15-Jun-2024 12:48:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 31
+[15-Jun-2024 12:50:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 31
+[15-Jun-2024 12:52:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 31
+[15-Jun-2024 12:52:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 31
+[15-Jun-2024 12:52:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 31
+[15-Jun-2024 12:53:50 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[15-Jun-2024 12:53:50 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[15-Jun-2024 12:53:50 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[15-Jun-2024 12:53:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 31
+[15-Jun-2024 12:59:36 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[15-Jun-2024 12:59:36 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[15-Jun-2024 12:59:36 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[15-Jun-2024 12:59:48 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[15-Jun-2024 12:59:48 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[15-Jun-2024 12:59:48 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[15-Jun-2024 13:00:08 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[15-Jun-2024 13:00:08 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[15-Jun-2024 13:00:08 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[15-Jun-2024 13:00:13 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[15-Jun-2024 13:00:13 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[15-Jun-2024 13:00:13 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[15-Jun-2024 13:02:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 31
+[15-Jun-2024 13:03:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 31
+[15-Jun-2024 13:21:28 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[15-Jun-2024 13:21:28 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[15-Jun-2024 13:21:28 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[15-Jun-2024 13:26:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 31
+[15-Jun-2024 13:30:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 31
+[15-Jun-2024 13:30:23 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[15-Jun-2024 13:30:23 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[15-Jun-2024 13:30:23 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[15-Jun-2024 13:35:28 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Number of bind variables doesn't match number of fields in prepared statement in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php:32
+Stack trace:
+#0 /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php(32): mysqli_stmt->bind_result()
+#1 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 32
+[15-Jun-2024 13:35:30 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Number of bind variables doesn't match number of fields in prepared statement in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php:32
+Stack trace:
+#0 /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php(32): mysqli_stmt->bind_result()
+#1 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 32
+[15-Jun-2024 13:35:35 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Number of bind variables doesn't match number of fields in prepared statement in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php:32
+Stack trace:
+#0 /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php(32): mysqli_stmt->bind_result()
+#1 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 32
+[15-Jun-2024 13:35:37 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Number of bind variables doesn't match number of fields in prepared statement in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php:32
+Stack trace:
+#0 /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php(32): mysqli_stmt->bind_result()
+#1 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 32
+[15-Jun-2024 13:35:38 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Number of bind variables doesn't match number of fields in prepared statement in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php:32
+Stack trace:
+#0 /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php(32): mysqli_stmt->bind_result()
+#1 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 32
+[15-Jun-2024 13:35:38 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Number of bind variables doesn't match number of fields in prepared statement in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php:32
+Stack trace:
+#0 /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php(32): mysqli_stmt->bind_result()
+#1 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 32
+[15-Jun-2024 13:54:32 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Number of bind variables doesn't match number of fields in prepared statement in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php:32
+Stack trace:
+#0 /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php(32): mysqli_stmt->bind_result()
+#1 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 32
+[15-Jun-2024 13:54:34 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Number of bind variables doesn't match number of fields in prepared statement in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php:32
+Stack trace:
+#0 /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php(32): mysqli_stmt->bind_result()
+#1 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 32
+[15-Jun-2024 13:54:34 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Number of bind variables doesn't match number of fields in prepared statement in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php:32
+Stack trace:
+#0 /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php(32): mysqli_stmt->bind_result()
+#1 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 32
+[15-Jun-2024 13:54:34 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Number of bind variables doesn't match number of fields in prepared statement in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php:32
+Stack trace:
+#0 /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php(32): mysqli_stmt->bind_result()
+#1 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 32
+[15-Jun-2024 13:54:35 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Number of bind variables doesn't match number of fields in prepared statement in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php:32
+Stack trace:
+#0 /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php(32): mysqli_stmt->bind_result()
+#1 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 32
+[15-Jun-2024 13:54:38 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Number of bind variables doesn't match number of fields in prepared statement in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php:32
+Stack trace:
+#0 /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php(32): mysqli_stmt->bind_result()
+#1 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 32
+[15-Jun-2024 13:54:39 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Number of bind variables doesn't match number of fields in prepared statement in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php:32
+Stack trace:
+#0 /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php(32): mysqli_stmt->bind_result()
+#1 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 32
+[15-Jun-2024 13:54:39 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Number of bind variables doesn't match number of fields in prepared statement in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php:32
+Stack trace:
+#0 /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php(32): mysqli_stmt->bind_result()
+#1 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 32
+[15-Jun-2024 13:57:52 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Number of bind variables doesn't match number of fields in prepared statement in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php:32
+Stack trace:
+#0 /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php(32): mysqli_stmt->bind_result()
+#1 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 32
+[15-Jun-2024 14:07:11 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 32
+[15-Jun-2024 14:07:11 UTC] PHP Notice:  Undefined index: NgayDangKy in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 157
+[15-Jun-2024 14:07:11 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[15-Jun-2024 14:07:11 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[15-Jun-2024 14:07:11 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[15-Jun-2024 14:07:17 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 32
+[15-Jun-2024 14:07:17 UTC] PHP Notice:  Undefined index: NgayDangKy in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 157
+[15-Jun-2024 14:07:17 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[15-Jun-2024 14:07:17 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[15-Jun-2024 14:07:17 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[15-Jun-2024 14:16:12 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 32
+[15-Jun-2024 14:16:12 UTC] PHP Notice:  Undefined index: NgayDangKy in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 157
+[15-Jun-2024 14:16:12 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[15-Jun-2024 14:16:12 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[15-Jun-2024 14:16:12 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[15-Jun-2024 14:25:27 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[15-Jun-2024 14:25:27 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[15-Jun-2024 14:25:27 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[15-Jun-2024 14:26:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/p5nsxwki604v/public_html/sua/sua_ten_dich_vu.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_ten_dich_vu.php on line 40
+[15-Jun-2024 14:28:39 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 32
+[15-Jun-2024 14:28:39 UTC] PHP Notice:  Undefined index: NgayDangKy in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 157
+[15-Jun-2024 14:28:39 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[15-Jun-2024 14:28:39 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[15-Jun-2024 14:28:39 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[15-Jun-2024 14:29:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/p5nsxwki604v/public_html/sua/sua_ten_dich_vu.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_ten_dich_vu.php on line 40
+[15-Jun-2024 14:29:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/p5nsxwki604v/public_html/sua/sua_ten_dich_vu.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_ten_dich_vu.php on line 40
+[15-Jun-2024 14:31:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/p5nsxwki604v/public_html/sua/sua_ten_dich_vu.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_ten_dich_vu.php on line 40
+[15-Jun-2024 14:34:04 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Number of bind variables doesn't match number of fields in prepared statement in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php:32
+Stack trace:
+#0 /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php(32): mysqli_stmt->bind_result()
+#1 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 32
+[15-Jun-2024 14:34:32 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 32
+[15-Jun-2024 14:34:32 UTC] PHP Notice:  Undefined index: NgayDangKy in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 157
+[15-Jun-2024 14:34:32 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[15-Jun-2024 14:34:32 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[15-Jun-2024 14:34:32 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[15-Jun-2024 14:34:35 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 32
+[15-Jun-2024 14:34:35 UTC] PHP Notice:  Undefined index: NgayDangKy in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 157
+[15-Jun-2024 14:34:35 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[15-Jun-2024 14:34:35 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[15-Jun-2024 14:34:35 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[15-Jun-2024 14:37:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/p5nsxwki604v/public_html/sua/sua_ten_dich_vu.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_ten_dich_vu.php on line 40
+[15-Jun-2024 14:37:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/p5nsxwki604v/public_html/sua/sua_ten_dich_vu.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_ten_dich_vu.php on line 40
+[15-Jun-2024 14:37:22 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 32
+[15-Jun-2024 14:37:22 UTC] PHP Notice:  Undefined index: NgayDangKy in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 157
+[15-Jun-2024 14:37:22 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[15-Jun-2024 14:37:22 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[15-Jun-2024 14:37:22 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[15-Jun-2024 14:37:24 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 32
+[15-Jun-2024 14:37:24 UTC] PHP Notice:  Undefined index: NgayDangKy in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 157
+[15-Jun-2024 14:37:24 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[15-Jun-2024 14:37:24 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[15-Jun-2024 14:37:24 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[15-Jun-2024 14:38:49 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Number of bind variables doesn't match number of fields in prepared statement in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php:32
+Stack trace:
+#0 /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php(32): mysqli_stmt->bind_result()
+#1 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 32
+[15-Jun-2024 14:40:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 31
+[15-Jun-2024 14:41:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 31
+[15-Jun-2024 14:41:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 31
+[15-Jun-2024 14:41:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 31
+[15-Jun-2024 14:41:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 31
+[15-Jun-2024 14:41:19 UTC] PHP Warning:  Undefined variable $result in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 32
+[15-Jun-2024 14:41:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 32
+[15-Jun-2024 14:41:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 31
+[15-Jun-2024 21:44:35 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/p5nsxwki604v/public_html/sua/sua_thong_tin_ban_hang.php on line 31
+[15-Jun-2024 14:50:17 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[15-Jun-2024 14:50:17 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[15-Jun-2024 14:50:17 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[15-Jun-2024 14:50:20 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[15-Jun-2024 14:50:20 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[15-Jun-2024 14:50:20 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[15-Jun-2024 14:50:59 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[15-Jun-2024 14:50:59 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[15-Jun-2024 14:50:59 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[15-Jun-2024 14:55:16 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[15-Jun-2024 14:55:16 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[15-Jun-2024 14:55:16 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[15-Jun-2024 14:56:03 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[15-Jun-2024 14:56:03 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[15-Jun-2024 14:56:03 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[15-Jun-2024 15:02:08 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[15-Jun-2024 15:02:08 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[15-Jun-2024 15:02:08 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[17-Jun-2024 05:45:32 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[17-Jun-2024 05:45:32 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[17-Jun-2024 05:45:32 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[18-Jun-2024 14:18:16 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[18-Jun-2024 14:18:16 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[18-Jun-2024 14:18:16 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[19-Jun-2024 10:57:39 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 201
+[19-Jun-2024 10:57:39 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 264
+[19-Jun-2024 10:57:39 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 290
+[19-Jun-2024 10:57:47 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 201
+[19-Jun-2024 10:57:47 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 264
+[19-Jun-2024 10:57:47 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 290
+[20-Jun-2024 14:37:29 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 201
+[20-Jun-2024 14:37:29 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 264
+[20-Jun-2024 14:37:29 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 290
+[20-Jun-2024 14:38:13 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 201
+[20-Jun-2024 14:38:13 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 264
+[20-Jun-2024 14:38:13 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 290
+[20-Jun-2024 14:39:03 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 201
+[20-Jun-2024 14:39:03 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 264
+[20-Jun-2024 14:39:03 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 290
+[20-Jun-2024 14:43:54 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 201
+[20-Jun-2024 14:43:54 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 264
+[20-Jun-2024 14:43:54 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 290
+[20-Jun-2024 14:43:58 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 201
+[20-Jun-2024 14:43:58 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 264
+[20-Jun-2024 14:43:58 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 290
+[20-Jun-2024 14:44:27 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 201
+[20-Jun-2024 14:44:27 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 264
+[20-Jun-2024 14:44:27 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 290
+[21-Jun-2024 13:58:46 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[21-Jun-2024 13:58:46 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[21-Jun-2024 13:58:46 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[21-Jun-2024 13:59:27 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[21-Jun-2024 13:59:27 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[21-Jun-2024 13:59:27 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[21-Jun-2024 13:59:49 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[21-Jun-2024 13:59:49 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[21-Jun-2024 13:59:49 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[21-Jun-2024 14:00:07 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[21-Jun-2024 14:00:07 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[21-Jun-2024 14:00:07 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[21-Jun-2024 14:00:24 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[21-Jun-2024 14:00:24 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[21-Jun-2024 14:00:24 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[21-Jun-2024 14:00:47 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[21-Jun-2024 14:00:47 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[21-Jun-2024 14:00:47 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[21-Jun-2024 14:04:04 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[21-Jun-2024 14:04:04 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[21-Jun-2024 14:04:04 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[21-Jun-2024 14:04:04 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[21-Jun-2024 14:04:04 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[21-Jun-2024 14:04:04 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[21-Jun-2024 14:06:14 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[21-Jun-2024 14:06:14 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[21-Jun-2024 14:06:14 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[21-Jun-2024 14:06:14 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[21-Jun-2024 14:06:14 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[21-Jun-2024 14:06:14 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276

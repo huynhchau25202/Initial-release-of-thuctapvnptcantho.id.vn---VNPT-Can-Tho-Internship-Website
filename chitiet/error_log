@@ -1,0 +1,310 @@
+[15-Jun-2024 12:43:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/p5nsxwki604v/public_html/chitiet/chi_tiet_dich_vu.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/p5nsxwki604v/public_html/chitiet/chi_tiet_dich_vu.php on line 27
+[15-Jun-2024 12:44:36 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[15-Jun-2024 12:44:36 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[15-Jun-2024 12:44:36 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[15-Jun-2024 12:53:48 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[15-Jun-2024 12:53:48 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[15-Jun-2024 12:53:48 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[15-Jun-2024 12:55:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/p5nsxwki604v/public_html/chitiet/chi_tiet_dich_vu.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/p5nsxwki604v/public_html/chitiet/chi_tiet_dich_vu.php on line 27
+[15-Jun-2024 12:55:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/p5nsxwki604v/public_html/chitiet/chi_tiet_dich_vu.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/p5nsxwki604v/public_html/chitiet/chi_tiet_dich_vu.php on line 27
+[15-Jun-2024 13:02:40 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[15-Jun-2024 13:02:40 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[15-Jun-2024 13:02:40 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[15-Jun-2024 13:29:57 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[15-Jun-2024 13:29:57 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[15-Jun-2024 13:29:57 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[15-Jun-2024 14:25:16 UTC] PHP Notice:  Trying to get property of non-object in /home/p5nsxwki604v/public_html/chitiet/chi_tiet.php on line 86
+[15-Jun-2024 14:25:24 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[15-Jun-2024 14:25:24 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[15-Jun-2024 14:25:24 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[15-Jun-2024 14:25:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/p5nsxwki604v/public_html/chitiet/chi_tiet_dich_vu.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/p5nsxwki604v/public_html/chitiet/chi_tiet_dich_vu.php on line 27
+[15-Jun-2024 14:26:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/p5nsxwki604v/public_html/chitiet/chi_tiet_dich_vu.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/p5nsxwki604v/public_html/chitiet/chi_tiet_dich_vu.php on line 27
+[15-Jun-2024 14:28:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/p5nsxwki604v/public_html/chitiet/chi_tiet_dich_vu.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/p5nsxwki604v/public_html/chitiet/chi_tiet_dich_vu.php on line 27
+[15-Jun-2024 14:28:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/p5nsxwki604v/public_html/chitiet/chi_tiet_dich_vu.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/p5nsxwki604v/public_html/chitiet/chi_tiet_dich_vu.php on line 27
+[15-Jun-2024 14:29:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/p5nsxwki604v/public_html/chitiet/chi_tiet_dich_vu.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/p5nsxwki604v/public_html/chitiet/chi_tiet_dich_vu.php on line 27
+[15-Jun-2024 14:35:11 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[15-Jun-2024 14:35:11 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[15-Jun-2024 14:35:11 UTC] PHP Notice:  Undefined variable: sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[15-Jun-2024 14:35:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/p5nsxwki604v/public_html/chitiet/chi_tiet_dich_vu.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/p5nsxwki604v/public_html/chitiet/chi_tiet_dich_vu.php on line 27
+[15-Jun-2024 14:35:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/p5nsxwki604v/public_html/chitiet/chi_tiet_dich_vu.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/p5nsxwki604v/public_html/chitiet/chi_tiet_dich_vu.php on line 27
+[15-Jun-2024 14:37:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/p5nsxwki604v/public_html/chitiet/chi_tiet_dich_vu.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/p5nsxwki604v/public_html/chitiet/chi_tiet_dich_vu.php on line 27
+[15-Jun-2024 14:37:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/p5nsxwki604v/public_html/chitiet/chi_tiet_dich_vu.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/p5nsxwki604v/public_html/chitiet/chi_tiet_dich_vu.php on line 27
+[15-Jun-2024 14:50:49 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[15-Jun-2024 14:50:49 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[15-Jun-2024 14:50:49 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[15-Jun-2024 14:51:57 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[15-Jun-2024 14:51:57 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[15-Jun-2024 14:51:57 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[15-Jun-2024 14:55:13 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[15-Jun-2024 14:55:13 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[15-Jun-2024 14:55:13 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[15-Jun-2024 14:56:07 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[15-Jun-2024 14:56:07 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[15-Jun-2024 14:56:07 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[15-Jun-2024 15:02:02 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[15-Jun-2024 15:02:02 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[15-Jun-2024 15:02:02 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[15-Jun-2024 15:34:30 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[15-Jun-2024 15:34:30 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[15-Jun-2024 15:34:30 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[16-Jun-2024 00:44:39 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[16-Jun-2024 00:44:39 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[16-Jun-2024 00:44:39 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[16-Jun-2024 06:43:07 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[16-Jun-2024 06:43:07 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[16-Jun-2024 06:43:07 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[16-Jun-2024 06:43:10 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[16-Jun-2024 06:43:10 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[16-Jun-2024 06:43:10 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[16-Jun-2024 06:43:21 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[16-Jun-2024 06:43:21 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[16-Jun-2024 06:43:21 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[16-Jun-2024 06:43:33 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[16-Jun-2024 06:43:33 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[16-Jun-2024 06:43:33 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[16-Jun-2024 06:44:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ThongTinBanHang.ID_KhachHang' in 'where clause' in /home/p5nsxwki604v/public_html/chitiet/chi_tiet.php:22
+Stack trace:
+#0 /home/p5nsxwki604v/public_html/chitiet/chi_tiet.php(22): mysqli->query()
+#1 {main}
+  thrown in /home/p5nsxwki604v/public_html/chitiet/chi_tiet.php on line 22
+[16-Jun-2024 06:44:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ThongTinBanHang.ID_KhachHang' in 'where clause' in /home/p5nsxwki604v/public_html/chitiet/chi_tiet.php:22
+Stack trace:
+#0 /home/p5nsxwki604v/public_html/chitiet/chi_tiet.php(22): mysqli->query()
+#1 {main}
+  thrown in /home/p5nsxwki604v/public_html/chitiet/chi_tiet.php on line 22
+[16-Jun-2024 06:45:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ThongTinBanHang.ID_KhachHang' in 'where clause' in /home/p5nsxwki604v/public_html/chitiet/chi_tiet.php:22
+Stack trace:
+#0 /home/p5nsxwki604v/public_html/chitiet/chi_tiet.php(22): mysqli->query()
+#1 {main}
+  thrown in /home/p5nsxwki604v/public_html/chitiet/chi_tiet.php on line 22
+[17-Jun-2024 05:45:29 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[17-Jun-2024 05:45:29 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[17-Jun-2024 05:45:29 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[17-Jun-2024 08:31:10 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[17-Jun-2024 08:31:10 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[17-Jun-2024 08:31:10 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[17-Jun-2024 08:31:15 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[17-Jun-2024 08:31:15 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[17-Jun-2024 08:31:15 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[17-Jun-2024 08:31:19 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[17-Jun-2024 08:31:19 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[17-Jun-2024 08:31:19 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[17-Jun-2024 08:31:26 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[17-Jun-2024 08:31:26 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[17-Jun-2024 08:31:26 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[17-Jun-2024 08:31:28 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[17-Jun-2024 08:31:28 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[17-Jun-2024 08:31:28 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[17-Jun-2024 08:31:30 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[17-Jun-2024 08:31:30 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[17-Jun-2024 08:31:30 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[17-Jun-2024 08:31:40 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[17-Jun-2024 08:31:40 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[17-Jun-2024 08:31:40 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[17-Jun-2024 08:31:47 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[17-Jun-2024 08:31:47 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[17-Jun-2024 08:31:47 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[17-Jun-2024 09:14:40 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[17-Jun-2024 09:14:40 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[17-Jun-2024 09:14:40 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[17-Jun-2024 09:14:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ThongTinBanHang.ID_KhachHang' in 'where clause' in /home/p5nsxwki604v/public_html/chitiet/chi_tiet.php:22
+Stack trace:
+#0 /home/p5nsxwki604v/public_html/chitiet/chi_tiet.php(22): mysqli->query()
+#1 {main}
+  thrown in /home/p5nsxwki604v/public_html/chitiet/chi_tiet.php on line 22
+[17-Jun-2024 09:18:01 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[17-Jun-2024 09:18:01 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[17-Jun-2024 09:18:01 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[17-Jun-2024 09:18:05 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[17-Jun-2024 09:18:05 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[17-Jun-2024 09:18:05 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[17-Jun-2024 09:18:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ThongTinBanHang.ID_KhachHang' in 'where clause' in /home/p5nsxwki604v/public_html/chitiet/chi_tiet.php:22
+Stack trace:
+#0 /home/p5nsxwki604v/public_html/chitiet/chi_tiet.php(22): mysqli->query()
+#1 {main}
+  thrown in /home/p5nsxwki604v/public_html/chitiet/chi_tiet.php on line 22
+[17-Jun-2024 09:19:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ThongTinBanHang.ID_KhachHang' in 'where clause' in /home/p5nsxwki604v/public_html/chitiet/chi_tiet.php:22
+Stack trace:
+#0 /home/p5nsxwki604v/public_html/chitiet/chi_tiet.php(22): mysqli->query()
+#1 {main}
+  thrown in /home/p5nsxwki604v/public_html/chitiet/chi_tiet.php on line 22
+[17-Jun-2024 09:20:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ThongTinBanHang.ID_KhachHang' in 'where clause' in /home/p5nsxwki604v/public_html/chitiet/chi_tiet.php:22
+Stack trace:
+#0 /home/p5nsxwki604v/public_html/chitiet/chi_tiet.php(22): mysqli->query()
+#1 {main}
+  thrown in /home/p5nsxwki604v/public_html/chitiet/chi_tiet.php on line 22
+[17-Jun-2024 09:40:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ThongTinBanHang.ID_KhachHang' in 'where clause' in /home/p5nsxwki604v/public_html/chitiet/chi_tiet.php:22
+Stack trace:
+#0 /home/p5nsxwki604v/public_html/chitiet/chi_tiet.php(22): mysqli->query()
+#1 {main}
+  thrown in /home/p5nsxwki604v/public_html/chitiet/chi_tiet.php on line 22
+[17-Jun-2024 09:44:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ThongTinBanHang.ID_KhachHang' in 'where clause' in /home/p5nsxwki604v/public_html/chitiet/chi_tiet.php:22
+Stack trace:
+#0 /home/p5nsxwki604v/public_html/chitiet/chi_tiet.php(22): mysqli->query()
+#1 {main}
+  thrown in /home/p5nsxwki604v/public_html/chitiet/chi_tiet.php on line 22
+[17-Jun-2024 09:44:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ThongTinBanHang.ID_KhachHang' in 'where clause' in /home/p5nsxwki604v/public_html/chitiet/chi_tiet.php:22
+Stack trace:
+#0 /home/p5nsxwki604v/public_html/chitiet/chi_tiet.php(22): mysqli->query()
+#1 {main}
+  thrown in /home/p5nsxwki604v/public_html/chitiet/chi_tiet.php on line 22
+[17-Jun-2024 09:45:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ThongTinBanHang.ID_KhachHang' in 'where clause' in /home/p5nsxwki604v/public_html/chitiet/chi_tiet.php:22
+Stack trace:
+#0 /home/p5nsxwki604v/public_html/chitiet/chi_tiet.php(22): mysqli->query()
+#1 {main}
+  thrown in /home/p5nsxwki604v/public_html/chitiet/chi_tiet.php on line 22
+[17-Jun-2024 09:47:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ThongTinBanHang.ID_KhachHang' in 'where clause' in /home/p5nsxwki604v/public_html/chitiet/chi_tiet.php:22
+Stack trace:
+#0 /home/p5nsxwki604v/public_html/chitiet/chi_tiet.php(22): mysqli->query()
+#1 {main}
+  thrown in /home/p5nsxwki604v/public_html/chitiet/chi_tiet.php on line 22
+[17-Jun-2024 09:51:17 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[17-Jun-2024 09:51:17 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[17-Jun-2024 09:51:17 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[17-Jun-2024 09:51:28 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[17-Jun-2024 09:51:28 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[17-Jun-2024 09:51:28 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[17-Jun-2024 09:51:29 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[17-Jun-2024 09:51:29 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[17-Jun-2024 09:51:29 UTC] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[17-Jun-2024 17:16:35 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[17-Jun-2024 17:16:35 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[17-Jun-2024 17:16:35 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[18-Jun-2024 14:18:14 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[18-Jun-2024 14:18:14 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[18-Jun-2024 14:18:14 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[19-Jun-2024 10:57:09 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 201
+[19-Jun-2024 10:57:09 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 264
+[19-Jun-2024 10:57:09 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 290
+[19-Jun-2024 10:57:41 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 201
+[19-Jun-2024 10:57:41 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 264
+[19-Jun-2024 10:57:41 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 290
+[20-Jun-2024 14:35:34 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 201
+[20-Jun-2024 14:35:34 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 264
+[20-Jun-2024 14:35:34 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 290
+[20-Jun-2024 14:35:38 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 201
+[20-Jun-2024 14:35:38 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 264
+[20-Jun-2024 14:35:38 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 290
+[20-Jun-2024 14:35:40 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 201
+[20-Jun-2024 14:35:40 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 264
+[20-Jun-2024 14:35:40 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 290
+[20-Jun-2024 14:36:57 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 201
+[20-Jun-2024 14:36:57 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 264
+[20-Jun-2024 14:36:57 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 290
+[20-Jun-2024 14:37:04 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 201
+[20-Jun-2024 14:37:04 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 264
+[20-Jun-2024 14:37:04 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 290
+[20-Jun-2024 14:38:07 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 201
+[20-Jun-2024 14:38:07 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 264
+[20-Jun-2024 14:38:07 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 290
+[20-Jun-2024 14:38:16 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 201
+[20-Jun-2024 14:38:16 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 264
+[20-Jun-2024 14:38:16 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 290
+[20-Jun-2024 14:38:31 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 201
+[20-Jun-2024 14:38:31 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 264
+[20-Jun-2024 14:38:31 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 290
+[20-Jun-2024 14:42:44 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 201
+[20-Jun-2024 14:42:44 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 264
+[20-Jun-2024 14:42:44 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 290
+[20-Jun-2024 14:43:00 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 201
+[20-Jun-2024 14:43:00 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 264
+[20-Jun-2024 14:43:00 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 290
+[20-Jun-2024 16:52:53 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 202
+[20-Jun-2024 16:52:53 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 265
+[20-Jun-2024 16:52:53 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 291
+[20-Jun-2024 18:06:46 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 204
+[20-Jun-2024 18:06:46 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 267
+[20-Jun-2024 18:06:46 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 293
+[21-Jun-2024 09:49:54 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 204
+[21-Jun-2024 09:49:54 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 267
+[21-Jun-2024 09:49:54 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 293
+[21-Jun-2024 12:41:55 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 204
+[21-Jun-2024 12:41:55 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 267
+[21-Jun-2024 12:41:55 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 293
+[21-Jun-2024 13:28:14 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 204
+[21-Jun-2024 13:28:14 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 267
+[21-Jun-2024 13:28:14 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 293
+[21-Jun-2024 13:52:58 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[21-Jun-2024 13:52:58 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[21-Jun-2024 13:52:58 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[21-Jun-2024 13:58:38 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[21-Jun-2024 13:58:38 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[21-Jun-2024 13:58:38 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[21-Jun-2024 13:59:20 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[21-Jun-2024 13:59:20 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[21-Jun-2024 13:59:20 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[21-Jun-2024 13:59:34 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[21-Jun-2024 13:59:34 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[21-Jun-2024 13:59:34 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[21-Jun-2024 14:00:00 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[21-Jun-2024 14:00:00 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[21-Jun-2024 14:00:00 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[21-Jun-2024 14:00:17 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[21-Jun-2024 14:00:17 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[21-Jun-2024 14:00:17 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[21-Jun-2024 14:00:55 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[21-Jun-2024 14:00:55 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[21-Jun-2024 14:00:55 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[21-Jun-2024 14:03:34 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[21-Jun-2024 14:03:34 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[21-Jun-2024 14:03:34 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[21-Jun-2024 14:04:22 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[21-Jun-2024 14:04:22 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[21-Jun-2024 14:04:22 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[21-Jun-2024 14:04:52 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[21-Jun-2024 14:04:52 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[21-Jun-2024 14:04:52 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[21-Jun-2024 14:05:11 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[21-Jun-2024 14:05:11 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[21-Jun-2024 14:05:11 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[21-Jun-2024 14:05:31 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[21-Jun-2024 14:05:31 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[21-Jun-2024 14:05:31 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[21-Jun-2024 14:06:01 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[21-Jun-2024 14:06:01 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[21-Jun-2024 14:06:01 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[21-Jun-2024 14:06:17 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[21-Jun-2024 14:06:17 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[21-Jun-2024 14:06:17 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[21-Jun-2024 14:06:20 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[21-Jun-2024 14:06:20 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[21-Jun-2024 14:06:20 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276
+[27-Jun-2024 16:36:12 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 187
+[27-Jun-2024 16:36:12 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 250
+[27-Jun-2024 16:36:12 asia/ho_chi_minh] PHP Warning:  Undefined variable $sqlChitiet in /home/p5nsxwki604v/public_html/footer.php on line 276

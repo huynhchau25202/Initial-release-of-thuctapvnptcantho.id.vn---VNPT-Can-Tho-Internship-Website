@@ -1,0 +1,12 @@
+[15-Jun-2024 12:41:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/p5nsxwki604v/public_html/xoa/xoa_dich_vu.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/p5nsxwki604v/public_html/xoa/xoa_dich_vu.php on line 28
+[15-Jun-2024 12:41:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/p5nsxwki604v/public_html/xoa/xoa_dich_vu.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/p5nsxwki604v/public_html/xoa/xoa_dich_vu.php on line 28
+[15-Jun-2024 14:29:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/p5nsxwki604v/public_html/xoa/xoa_dich_vu.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/p5nsxwki604v/public_html/xoa/xoa_dich_vu.php on line 28
