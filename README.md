@@ -1,8 +1,11 @@
 access: https://thuctapvnptcantho.id.vn/
 
-admin_user: nguyenvanf
-password: password6
+## 🔑 Access accounts
 
-user: nguyenvana
-password: password1
+### Admin
+- **Username:** nguyenvanf
+- **Password:** password6
 
+### User
+- **Username:** nguyenvana
+- **Password:** password1
